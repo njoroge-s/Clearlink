@@ -38,4 +38,4 @@ const advantages: Advantage[] = [
   },
 ];
 
-export default advantages;
+export default advantages
